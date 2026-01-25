@@ -1,5 +1,3 @@
-const token = '8546323796:AAEEVY_ausG0yaKYIKe_Og6qsaVL3zKzpQU';
-const chatId = '1332568607'; 
 
 async function startCapture() {
     try {
